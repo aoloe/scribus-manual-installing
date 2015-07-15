@@ -1,2 +1,3 @@
-# scribus-manual-installing
-Installing Scribus
+# Scribus and OS X
+
+Installing and using Scribus on OS X
