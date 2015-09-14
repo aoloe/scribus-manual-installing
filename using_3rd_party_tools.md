@@ -16,7 +16,7 @@ Scribus can play nice with different FOSS tools. To learn how to use those tools
 
 ### GIMP
 * Install via Gimp.org or Homebrew.
-* Linking ```<path to GIMP.app>``` in Scribus > Preferences > External Tools > Image Processing Tool
+* Linking ```<path to GIMP.app>``` in Scribus > Preferences > External Tools > Image Processing Tool (mostly `/Application/GIMP.app`)
 
 ### Scribus Generator 
 
