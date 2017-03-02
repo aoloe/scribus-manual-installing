@@ -1,4 +1,4 @@
-# Installing Scribus
+# Getting Scribus
 
  - Like most indipendent Software, the first time you open Scribus you have to right click on the application Icon and choose "Open".  
  Failing to do will give you a signature error.
