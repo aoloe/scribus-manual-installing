@@ -42,6 +42,6 @@ You can download a DMG for Ghostscript from
 
 http://pages.uoregon.edu/koch/
 
-Scribus should recognize it on the next start.
+Scribus should recognize it on the next start (I've tested it and it was recognized!).
 
 ## Adding fonts
