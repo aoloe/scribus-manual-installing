@@ -29,9 +29,9 @@ If you have Homebrew installed, you can use it instead of downloading the DMG.
 
 ## Where are the preference files?
 
-On Mac Os X, the preferences are in
+On MacOS, the preferences are in
 
-`~/library/preferences/scribus/`
+`~/Library/Preferences/Scribus/`
 
 `~` is your Home directory, typically: `/Users/Your-name`
 
