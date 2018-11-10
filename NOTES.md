@@ -27,6 +27,16 @@ If you have Homebrew installed, you can use it instead of downloading the DMG.
  Failing to do will give you a signature error.
  - On some os x versions, the first you run an application you did not get from the appstore, you have to right click on the application icon, choose open and confirm that you want to open the application you downloaded from the internets.
 
+## Where is the preferences file?
+
+On Mac Os X, the preferences are in
+
+`~/library/preferences/scribus/`
+
+`~` is your Home directory, typically: `/Users/Your-name`
+
+In the Finder, you can open _your_ Library directory by holding down the "option" while the "Go" menu: among other "places", it will show your “Library” directory.
+
 ## Where is Ghostscript?
 
 ### You don't really need it. Mostly.
