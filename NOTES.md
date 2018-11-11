@@ -23,7 +23,18 @@ If you have Homebrew installed, you can use it instead of downloading the DMG.
 
 ## First launch of Scribus
 
- - Like most indipendent Software, the first time you open Scribus you have to right click on the application Icon and choose "Open".  
+Like most indipendent Software, Scribus is not signed with an Apple Developer Certificate. The first time you open Scribus, you cannot double click the Scribus icon or a Scribus document. For the first start, you need to use the open command in the context menu: right click (or ctrl-clik) on the application Icon and choose "Open", carefully read the message and if you agree with it, click the "Open" button to start Scribus.
+
+From now on, you will be able to start this copy of Scribus by double clicking the Scribus icon or a Scribus document.
+
+A few remarks:
+
+- This processess has to be repeated each time you download a new version of Scribus.
+- You need to find the Scribus in the finder, in the "Applications" directory. Spotlight does not give you access to the context menu.
+- Scribus is signed with a standard GPG process. You can download the GPG key from the Scribus download page and verify your copy with `gpg --verify ...`.
+
+It is to be noted, that the official Scribus 
+
  Failing to do will give you a signature error.
  - On some os x versions, the first you run an application you did not get from the appstore, you have to right click on the application icon, choose open and confirm that you want to open the application you downloaded from the internets.
 
