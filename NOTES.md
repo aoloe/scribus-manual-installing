@@ -31,12 +31,7 @@ A few remarks:
 
 - This processess has to be repeated each time you download a new version of Scribus.
 - You need to find the Scribus in the finder, in the "Applications" directory. Spotlight does not give you access to the context menu.
-- Scribus is signed with a standard GPG process. You can download the GPG key from the Scribus download page and verify your copy with `gpg --verify ...`.
-
-It is to be noted, that the official Scribus 
-
- Failing to do will give you a signature error.
- - On some os x versions, the first you run an application you did not get from the appstore, you have to right click on the application icon, choose open and confirm that you want to open the application you downloaded from the internets.
+- The Scribus dmg file is signed with a standard GPG process. You can download the GPG key from the Scribus download page and verify your copy with `gpg --verify ...`. (TODO: to be continued)
 
 ## Where are the preference files?
 
