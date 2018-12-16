@@ -44,7 +44,7 @@ For your first steps, you can probably safely ignore that message, since Scribus
 
 As soon as you feel that you don't want to see the reminder anymore or need indeed to have a copy of Ghostscript installed, you can install it from the latest dmg you download from
 
-http://pages.uoregon.edu/koch/
+https://pages.uoregon.edu/koch/
 
 If you install it _correctly_, Scribus will detect it on the next start.
 
